@@ -38,6 +38,8 @@
 -	predict: Predicts the class for a set of samples.
 -	traverseTree: Recursively traverses the tree for a single sample to make a prediction.
 
-## Link: [Video Demonstration](https://drive.google.com/file/d/1CTJ1iMddXW7mg0M7fmKxJsxWla6fLFWM/view?usp=sharing)
+## Link: 
+- [Code Demonstration](https://drive.google.com/file/d/1CTJ1iMddXW7mg0M7fmKxJsxWla6fLFWM/view?usp=sharing)
+- [Decision Tree Presentation](https://drive.google.com/file/d/1URcU7zR5rfU10_8g1VMgYVcNPLYKldCv/view?usp=sharing)
 
 
